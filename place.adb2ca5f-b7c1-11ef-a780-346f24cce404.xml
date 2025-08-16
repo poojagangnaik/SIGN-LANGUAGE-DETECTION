@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>place.adb2ca5f-b7c1-11ef-a780-346f24cce404.jpg</filename>
+	<path>C:\Users\purvesh gangnaik\Downloads\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\place.adb2ca5f-b7c1-11ef-a780-346f24cce404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>272</ymin>
+			<xmax>505</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
