@@ -1,0 +1,132 @@
+item { 
+	name:'Angry'
+	id:1
+}
+item { 
+	name:'Answer'
+	id:2
+}
+item { 
+	name:'Are you okay?'
+	id:3
+}
+item { 
+	name:'Camera'
+	id:4
+}
+item { 
+	name:'Car'
+	id:5
+}
+item { 
+	name:'Difficult'
+	id:6
+}
+item { 
+	name:'Family'
+	id:7
+}
+item { 
+	name:'Food'
+	id:8
+}
+item { 
+	name:'Good'
+	id:9
+}
+item { 
+	name:'Happy'
+	id:10
+}
+item { 
+	name:'Hello'
+	id:11
+}
+item { 
+	name:'House'
+	id:12
+}
+item { 
+	name:'How are you?'
+	id:13
+}
+item { 
+	name:'I am fine'
+	id:14
+}
+item { 
+	name:'I love you'
+	id:15
+}
+item { 
+	name:'Namaste'
+	id:16
+}
+item { 
+	name:'No'
+	id:17
+}
+item { 
+	name:'Okay'
+	id:18
+}
+item { 
+	name:'Peace'
+	id:19
+}
+item { 
+	name:'Place'
+	id:20
+}
+item { 
+	name:'Please'
+	id:21
+}
+item { 
+	name:'Practice'
+	id:22
+}
+item { 
+	name:'Question'
+	id:23
+}
+item { 
+	name:'Sad'
+	id:24
+}
+item { 
+	name:'Short'
+	id:25
+}
+item { 
+	name:'Sorry'
+	id:26
+}
+item { 
+	name:'Strong'
+	id:27
+}
+item { 
+	name:'Thank you'
+	id:28
+}
+item { 
+	name:'This'
+	id:29
+}
+item { 
+	name:'Time'
+	id:30
+}
+item { 
+	name:'Welcome'
+	id:31
+}
+item { 
+	name:'What'
+	id:32
+}
+item { 
+	name:'Yes'
+	id:33
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>happy.c1171f22-b7c2-11ef-8741-346f24cce404.jpg</filename>
+	<path>C:\Users\purvesh gangnaik\Downloads\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\happy.c1171f22-b7c2-11ef-8741-346f24cce404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>197</ymin>
+			<xmax>483</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
