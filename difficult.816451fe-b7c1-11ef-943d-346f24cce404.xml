@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>difficult.816451fe-b7c1-11ef-943d-346f24cce404.jpg</filename>
+	<path>C:\Users\purvesh gangnaik\Downloads\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\difficult.816451fe-b7c1-11ef-943d-346f24cce404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Difficult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>310</ymin>
+			<xmax>533</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
